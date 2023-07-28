@@ -12,9 +12,7 @@ Welcome to the Smart Health with AI Machine Learning Project! This repository co
 - [Usage](#usage)
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
-- [Results and Interpretations](#results-and-interpretations)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Description
@@ -63,21 +61,15 @@ My machine learning models are implemented using TensorFlow and Keras. The neura
 
 For model training details and hyperparameter tuning, refer to the "model_training.ipynb" Jupyter Notebook.
 
-Evaluation
+Evaluation:
 I evaluate the model's performance using various metrics, such as accuracy, precision, recall, F1-score, and ROC-AUC.
 
-For evaluation details and result analysis, refer to the "evaluation.ipynb" Jupyter Notebook.
 
-Results and Interpretations
-My research findings and interpretations can be found in the "results_and_interpretations.pdf" document.
-
-Contributing
+Contributing:
 I welcome contributions to this project! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License.
 
-Contact
+Contact:
 For any inquiries or collaboration opportunities, please feel free to contact me:
 
 Name: Habib Irani
