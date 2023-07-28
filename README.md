@@ -61,15 +61,21 @@ My machine learning models are implemented using TensorFlow and Keras. The neura
 
 For model training details and hyperparameter tuning, refer to the "model_training.ipynb" Jupyter Notebook.
 
-Evaluation:
+## Evaluation
+
+
 I evaluate the model's performance using various metrics, such as accuracy, precision, recall, F1-score, and ROC-AUC.
 
 
-Contributing:
+## Contributing
+
+
 I welcome contributions to this project! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
 
-Contact:
+## Contact
+
+
 For any inquiries or collaboration opportunities, please feel free to contact me:
 
 Name: Habib Irani
@@ -77,7 +83,6 @@ Email: habibirani174@gmail.com
 LinkedIn: linkedin.com/in/habib-irani-1619b4b1
 Thank you for exploring my Smart Health with AI Machine Learning Project! I hope my research contributes to the advancement of AI-powered healthcare applications and benefits society in meaningful ways.
 
-Happy coding! 🚀
 
 
 
